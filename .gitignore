@@ -1,0 +1,19 @@
+# Environnement virtuel Python
+.venv/
+
+# Variables d'environnement
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Base de données Chroma
+chroma_db/
+
+# Cursor IDE
+.cursor/
+
+# Fichiers système
+.DS_Store
+Thumbs.db

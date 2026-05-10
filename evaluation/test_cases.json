@@ -1,0 +1,12 @@
+[
+  {"id": "tc_001", "question": "Quelle est la duree legale maximale du travail hebdomadaire au Maroc ?", "expected_keywords": ["44 heures", "semaine", "Code du Travail"], "expected_article": "Article 184"},
+  {"id": "tc_002", "question": "Quelles sont les conditions du mariage au Maroc ?", "expected_keywords": ["Code de la Famille", "capacite", "consentement"], "expected_article": "Article 10"},
+  {"id": "tc_003", "question": "Qu'est-ce que le contrat de vente selon le droit marocain ?", "expected_keywords": ["Code des Obligations", "vendeur", "acheteur", "prix"], "expected_article": "Article 478"},
+  {"id": "tc_004", "question": "Quelle est la peine pour le vol simple au Maroc ?", "expected_keywords": ["Code Penal", "emprisonnement", "amende"], "expected_article": "Article 505"},
+  {"id": "tc_005", "question": "Comment creer une SARL au Maroc ?", "expected_keywords": ["Code de Commerce", "associes", "capital"], "expected_article": "Article 44"},
+  {"id": "tc_006", "question": "Quels sont les delais de preavis pour le licenciement ?", "expected_keywords": ["Code du Travail", "preavis", "anciennete"], "expected_article": "Article 43"},
+  {"id": "tc_007", "question": "Comment se deroule une procedure de divorce au Maroc ?", "expected_keywords": ["Code de la Famille", "tribunal", "divorce"], "expected_article": "Article 78"},
+  {"id": "tc_008", "question": "Qu'est-ce que la prescription en matiere civile ?", "expected_keywords": ["Code de Procedure Civile", "prescription", "delai"], "expected_article": "Article 387"},
+  {"id": "tc_009", "question": "Quelles sont les obligations du locataire ?", "expected_keywords": ["Code des Obligations", "loyer", "locataire", "bail"], "expected_article": "Article 660"},
+  {"id": "tc_010", "question": "Qu'est-ce que la faillite selon le Code de Commerce marocain ?", "expected_keywords": ["Code de Commerce", "faillite", "cessation", "paiements"], "expected_article": "Article 560"}
+]
